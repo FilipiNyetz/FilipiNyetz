@@ -1,4 +1,4 @@
-### 👋🏽 Olá! Sou FIlipi Romão, estudante de Engenharia de Software na Universidade Católica de Brasília e entusiasta do Desenvolvimento-Web.
+### 👋🏽 Olá! Sou FIlipi Romão, estudante de Engenharia de Software e entusiasta do Desenvolvimento-Web.
 
 <h2> 🧑🏽‍💻 Tecnologias que uso<h2>
 <div class="tecnologias">
