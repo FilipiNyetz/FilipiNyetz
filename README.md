@@ -49,8 +49,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-<h1 align="center">📊 GitHub Stats</h1>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipinyetz&theme=dark" alt="filipinyetz" />
-</p>
 
